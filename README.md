@@ -1,7 +1,7 @@
 Analyse de données sur les animés 
 
 Auteur : Aboulfaid Hafsa
-Technologies : Python, Pandas, Matplotlib, Jupyter Notebook
+Technologies : Python ; Pandas ; Matplotlib ; Jupyter Notebook
 
 1. Présentation du projet
 
@@ -157,5 +157,6 @@ requirements.txt : liste des bibliothèques Python nécessaires
 6. Licence
 
 Projet personnel – Aboulfaid Hafsa – 2026
+
 
 
